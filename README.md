@@ -1,1 +1,1 @@
-JavaScript Drum Kit 🥁 - HTML, CSS, JAVASCRIPT
+JavaScript Drum Kit 🥁
